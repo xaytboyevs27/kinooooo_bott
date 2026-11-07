@@ -1,0 +1,19 @@
+{
+  "force_sub": "Please subscribe to the following channels first to use the bot:",
+  "subbed": "✅ I subscribed",
+  "btn_search": "🔍 Search Movie",
+  "btn_serials": "📺 All Serials",
+  "btn_top": "🔝 Top Movies",
+  "btn_new": "🆕 New Releases",
+  "btn_rand": "🎲 Random Movie",
+  "btn_fav": "❤️ Favorites",
+  "btn_ai": "🤖 AI Chat",
+  "btn_ref": "🔗 Invite Friends",
+  "btn_vip": "💳 Buy VIP",
+  "greeting": "🎬 Hello {name}!\n\nWith my help, you can easily find movies and serials. I am a smart bot with the latest search system and VIP! 🍿\n\nChoose from the menu:",
+  "search_prompt": "🔍 Please write the movie code (or name):",
+  "fav_add": "❤️ Add to Favorites",
+  "lang_changed": "Language changed! 🇺🇸 Don't forget to press /start again.",
+  "page": "Page",
+  "of": "/"
+}

@@ -1,0 +1,19 @@
+{
+  "force_sub": "Iltimos, botni ishlatish uchun avval quyidagi kanallarga obuna bo'ling:",
+  "subbed": "✅ Obuna bo'ldim",
+  "btn_search": "🔍 Film izlash",
+  "btn_serials": "📺 Barcha Seriallar",
+  "btn_top": "🔝 Top Kinolar",
+  "btn_new": "🆕 Yangilar",
+  "btn_rand": "🎲 Tasodifiy Kino",
+  "btn_fav": "❤️ Sevimlilar",
+  "btn_ai": "🤖 AI Suhbat",
+  "btn_ref": "🔗 Do'stlarni taklif",
+  "btn_vip": "💳 VIP Sotib Olish",
+  "greeting": "🎬 Assalomu alaykum {name}!\n\nMen yordamida qidirgan kino va seriallaringizni oson topishingiz mumkin. Eng so'nggi film izlash moslamasi va VIP tizimga ega aqlli botman! 🍿\n\nMenyulardan keraklisini tanlang:",
+  "search_prompt": "🔍 Iltimos, film kodini (yoki nomini) yozing:",
+  "fav_add": "❤️ Sevimlilarga qo'shish",
+  "lang_changed": "Til o'zgartirildi! 🇺🇿 Qaytadan /start bosishni unutmang.",
+  "page": "Sahifa",
+  "of": "/"
+}
